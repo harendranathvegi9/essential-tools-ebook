@@ -2427,7 +2427,7 @@ Once you install it, you'll think twice before giving into the temptation to rea
 >**Analyze where the times goes**\
 The dashboard lets you see where you spend your days and what your biggest time wasters are, categorized by time and day.
 
-/
+\
 
 ![Quick assessment](images/rescute-time-ext.png)
 
