@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:4e3da6e1-f5d6-4059-ba0d-75388d2dd765" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_png" />
+  </head>
+  <docTitle>
+    <text>Essential Tools for Running a Business</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Essential Tools for Running a Business</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Before We Start…</text>
+      </navLabel>
+      <content src="ch001.xhtml#before-we-start" />
+      <navPoint id="navPoint-2">
+        <navLabel>
+          <text>About Us</text>
+        </navLabel>
+        <content src="ch001.xhtml#about-us" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Collaboration Tools</text>
+      </navLabel>
+      <content src="ch002.xhtml#collaboration-tools" />
+      <navPoint id="navPoint-4">
+        <navLabel>
+          <text>Active Collab</text>
+        </navLabel>
+        <content src="ch002.xhtml#active-collab" />
+      </navPoint>
+      <navPoint id="navPoint-5">
+        <navLabel>
+          <text>Slack</text>
+        </navLabel>
+        <content src="ch002.xhtml#slack" />
+      </navPoint>
+      <navPoint id="navPoint-6">
+        <navLabel>
+          <text>Dropbox</text>
+        </navLabel>
+        <content src="ch002.xhtml#dropbox" />
+      </navPoint>
+      <navPoint id="navPoint-7">
+        <navLabel>
+          <text>QuickTime</text>
+        </navLabel>
+        <content src="ch002.xhtml#quicktime" />
+      </navPoint>
+      <navPoint id="navPoint-8">
+        <navLabel>
+          <text>Google Docs</text>
+        </navLabel>
+        <content src="ch002.xhtml#google-docs" />
+      </navPoint>
+      <navPoint id="navPoint-9">
+        <navLabel>
+          <text>Google Sheets</text>
+        </navLabel>
+        <content src="ch002.xhtml#google-sheets" />
+      </navPoint>
+      <navPoint id="navPoint-10">
+        <navLabel>
+          <text>DokuWiki</text>
+        </navLabel>
+        <content src="ch002.xhtml#dokuwiki" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>Support Tools</text>
+      </navLabel>
+      <content src="ch003.xhtml#support-tools" />
+      <navPoint id="navPoint-12">
+        <navLabel>
+          <text>SupportYard</text>
+        </navLabel>
+        <content src="ch003.xhtml#supportyard" />
+      </navPoint>
+      <navPoint id="navPoint-13">
+        <navLabel>
+          <text>LiveChat</text>
+        </navLabel>
+        <content src="ch003.xhtml#livechat" />
+      </navPoint>
+      <navPoint id="navPoint-14">
+        <navLabel>
+          <text>Skype + Zaplee</text>
+        </navLabel>
+        <content src="ch003.xhtml#skype-zaplee" />
+      </navPoint>
+      <navPoint id="navPoint-15">
+        <navLabel>
+          <text>YouCanBook.me</text>
+        </navLabel>
+        <content src="ch003.xhtml#youcanbook.me" />
+      </navPoint>
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>Join.me</text>
+        </navLabel>
+        <content src="ch003.xhtml#join.me" />
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+          <text>TeamViewer</text>
+        </navLabel>
+        <content src="ch003.xhtml#teamviewer" />
+      </navPoint>
+      <navPoint id="navPoint-18">
+        <navLabel>
+          <text>Skitch</text>
+        </navLabel>
+        <content src="ch003.xhtml#skitch" />
+      </navPoint>
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>aText</text>
+        </navLabel>
+        <content src="ch003.xhtml#atext" />
+      </navPoint>
+      <navPoint id="navPoint-20">
+        <navLabel>
+          <text>AutoTextExpander</text>
+        </navLabel>
+        <content src="ch003.xhtml#autotextexpander" />
+      </navPoint>
+      <navPoint id="navPoint-21">
+        <navLabel>
+          <text>Gorgias</text>
+        </navLabel>
+        <content src="ch003.xhtml#gorgias" />
+      </navPoint>
+      <navPoint id="navPoint-22">
+        <navLabel>
+          <text>Recordit</text>
+        </navLabel>
+        <content src="ch003.xhtml#recordit" />
+      </navPoint>
+      <navPoint id="navPoint-23">
+        <navLabel>
+          <text>TweetDeck</text>
+        </navLabel>
+        <content src="ch003.xhtml#tweetdeck" />
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>Notify</text>
+        </navLabel>
+        <content src="ch003.xhtml#notify" />
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+          <text>Wistia</text>
+        </navLabel>
+        <content src="ch003.xhtml#wistia" />
+      </navPoint>
+      <navPoint id="navPoint-26">
+        <navLabel>
+          <text>ScreenFlow</text>
+        </navLabel>
+        <content src="ch003.xhtml#screenflow" />
+      </navPoint>
+      <navPoint id="navPoint-27">
+        <navLabel>
+          <text>Nimbus</text>
+        </navLabel>
+        <content src="ch003.xhtml#nimbus" />
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+          <text>FastSpring</text>
+        </navLabel>
+        <content src="ch003.xhtml#fastspring" />
+      </navPoint>
+      <navPoint id="navPoint-29">
+        <navLabel>
+          <text>Disqus</text>
+        </navLabel>
+        <content src="ch003.xhtml#disqus" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30">
+      <navLabel>
+        <text>Design Tools</text>
+      </navLabel>
+      <content src="ch004.xhtml#design-tools" />
+      <navPoint id="navPoint-31">
+        <navLabel>
+          <text>Sketch</text>
+        </navLabel>
+        <content src="ch004.xhtml#sketch" />
+      </navPoint>
+      <navPoint id="navPoint-32">
+        <navLabel>
+          <text>PhotoScape</text>
+        </navLabel>
+        <content src="ch004.xhtml#photoscape" />
+      </navPoint>
+      <navPoint id="navPoint-33">
+        <navLabel>
+          <text>GIMP</text>
+        </navLabel>
+        <content src="ch004.xhtml#gimp" />
+      </navPoint>
+      <navPoint id="navPoint-34">
+        <navLabel>
+          <text>Scribus</text>
+        </navLabel>
+        <content src="ch004.xhtml#scribus" />
+      </navPoint>
+      <navPoint id="navPoint-35">
+        <navLabel>
+          <text>Final Cut Pro X</text>
+        </navLabel>
+        <content src="ch004.xhtml#final-cut-pro-x" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36">
+      <navLabel>
+        <text>Marketing</text>
+      </navLabel>
+      <content src="ch005.xhtml#marketing" />
+      <navPoint id="navPoint-37">
+        <navLabel>
+          <text>MailChimp</text>
+        </navLabel>
+        <content src="ch005.xhtml#mailchimp" />
+      </navPoint>
+      <navPoint id="navPoint-38">
+        <navLabel>
+          <text>Buffer</text>
+        </navLabel>
+        <content src="ch005.xhtml#buffer" />
+      </navPoint>
+      <navPoint id="navPoint-39">
+        <navLabel>
+          <text>Google Analytics</text>
+        </navLabel>
+        <content src="ch005.xhtml#google-analytics" />
+      </navPoint>
+      <navPoint id="navPoint-40">
+        <navLabel>
+          <text>Optimizely</text>
+        </navLabel>
+        <content src="ch005.xhtml#optimizely" />
+      </navPoint>
+      <navPoint id="navPoint-41">
+        <navLabel>
+          <text>UsabilityHub</text>
+        </navLabel>
+        <content src="ch005.xhtml#usabilityhub" />
+      </navPoint>
+      <navPoint id="navPoint-42">
+        <navLabel>
+          <text>UserTesting</text>
+        </navLabel>
+        <content src="ch005.xhtml#usertesting" />
+      </navPoint>
+      <navPoint id="navPoint-43">
+        <navLabel>
+          <text>Hotjar</text>
+        </navLabel>
+        <content src="ch005.xhtml#hotjar" />
+      </navPoint>
+      <navPoint id="navPoint-44">
+        <navLabel>
+          <text>Typeform</text>
+        </navLabel>
+        <content src="ch005.xhtml#typeform" />
+      </navPoint>
+      <navPoint id="navPoint-45">
+        <navLabel>
+          <text>Google Forms</text>
+        </navLabel>
+        <content src="ch005.xhtml#google-forms" />
+      </navPoint>
+      <navPoint id="navPoint-46">
+        <navLabel>
+          <text>SocialBro</text>
+        </navLabel>
+        <content src="ch005.xhtml#socialbro" />
+      </navPoint>
+      <navPoint id="navPoint-47">
+        <navLabel>
+          <text>Google AdWords</text>
+        </navLabel>
+        <content src="ch005.xhtml#google-adwords" />
+      </navPoint>
+      <navPoint id="navPoint-48">
+        <navLabel>
+          <text>Medium</text>
+        </navLabel>
+        <content src="ch005.xhtml#medium" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-49">
+      <navLabel>
+        <text>Devops Tools</text>
+      </navLabel>
+      <content src="ch006.xhtml#devops-tools" />
+      <navPoint id="navPoint-50">
+        <navLabel>
+          <text>Sublime Text</text>
+        </navLabel>
+        <content src="ch006.xhtml#sublime-text" />
+      </navPoint>
+      <navPoint id="navPoint-51">
+        <navLabel>
+          <text>PhpStorm</text>
+        </navLabel>
+        <content src="ch006.xhtml#phpstorm" />
+      </navPoint>
+      <navPoint id="navPoint-52">
+        <navLabel>
+          <text>Jekyll</text>
+        </navLabel>
+        <content src="ch006.xhtml#jekyll" />
+      </navPoint>
+      <navPoint id="navPoint-53">
+        <navLabel>
+          <text>Gulp</text>
+        </navLabel>
+        <content src="ch006.xhtml#gulp" />
+      </navPoint>
+      <navPoint id="navPoint-54">
+        <navLabel>
+          <text>GitLab</text>
+        </navLabel>
+        <content src="ch006.xhtml#gitlab" />
+      </navPoint>
+      <navPoint id="navPoint-55">
+        <navLabel>
+          <text>SourceTree</text>
+        </navLabel>
+        <content src="ch006.xhtml#sourcetree" />
+      </navPoint>
+      <navPoint id="navPoint-56">
+        <navLabel>
+          <text>Jenkins</text>
+        </navLabel>
+        <content src="ch006.xhtml#jenkins" />
+      </navPoint>
+      <navPoint id="navPoint-57">
+        <navLabel>
+          <text>Vagrant</text>
+        </navLabel>
+        <content src="ch006.xhtml#vagrant" />
+      </navPoint>
+      <navPoint id="navPoint-58">
+        <navLabel>
+          <text>MAMP</text>
+        </navLabel>
+        <content src="ch006.xhtml#mamp" />
+      </navPoint>
+      <navPoint id="navPoint-59">
+        <navLabel>
+          <text>Ansible</text>
+        </navLabel>
+        <content src="ch006.xhtml#ansible" />
+      </navPoint>
+      <navPoint id="navPoint-60">
+        <navLabel>
+          <text>Sequel Pro</text>
+        </navLabel>
+        <content src="ch006.xhtml#sequel-pro" />
+      </navPoint>
+      <navPoint id="navPoint-61">
+        <navLabel>
+          <text>phpMyAdmin</text>
+        </navLabel>
+        <content src="ch006.xhtml#phpmyadmin" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-62">
+      <navLabel>
+        <text>Productivity Tools</text>
+      </navLabel>
+      <content src="ch007.xhtml#productivity-tools" />
+      <navPoint id="navPoint-63">
+        <navLabel>
+          <text>Pocket</text>
+        </navLabel>
+        <content src="ch007.xhtml#pocket" />
+      </navPoint>
+      <navPoint id="navPoint-64">
+        <navLabel>
+          <text>RescueTime</text>
+        </navLabel>
+        <content src="ch007.xhtml#rescuetime" />
+      </navPoint>
+      <navPoint id="navPoint-65">
+        <navLabel>
+          <text>Google Keep</text>
+        </navLabel>
+        <content src="ch007.xhtml#google-keep" />
+      </navPoint>
+      <navPoint id="navPoint-66">
+        <navLabel>
+          <text>Grammarly</text>
+        </navLabel>
+        <content src="ch007.xhtml#grammarly" />
+      </navPoint>
+      <navPoint id="navPoint-67">
+        <navLabel>
+          <text>8tracks</text>
+        </navLabel>
+        <content src="ch007.xhtml#tracks" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-68">
+      <navLabel>
+        <text>Want to Know More?</text>
+      </navLabel>
+      <content src="ch008.xhtml#want-to-know-more" />
+    </navPoint>
+  </navMap>
+</ncx>

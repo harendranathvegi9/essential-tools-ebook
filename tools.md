@@ -58,7 +58,8 @@ Active Collab also has time tracking and invoicing features, but we don't use th
 ![A separate project for work in progress](images/activecollab-backlog.png)
 
 >**A separate project for work in progress**\
-Splitting tasks in two project helps us focus on the work at hand, separating what we’d like to work on from what really needs to be done.
+A separate project for work in progress
+We splitted to-dos across two projects - in one we put stuff we're currently working on, and in the other what we need to do in the future. This helps us focus on the work at hand, separating what we’d like to work on from what really needs to be done.
 
 \
 
@@ -275,7 +276,7 @@ So when we decided to improve how Active Collab works with files, we just filter
 
 ![Survey results are easy to scan](images/spreadsheet.png)
 
-![](images/spreeadsheet-results.png)
+![Survey results are easy to scan](images/spreeadsheet-results.png)
 
 >**Survey results are easy to scan**\
 We color code information so we can quickly scan and absorb information. Thanks to conditional formatting and charts, we can analyse surveys and use the knowledge to improve our sign-up rate.
@@ -353,16 +354,16 @@ We receive all kinds of email: questions about downloading the Timer, bug report
 The integration with Active Collab will soon let us connect tasks and tickets. So for example, when we receive a bug report, we can test it and turn it into a task in Active Collab. After our developers fix the bug, the ticket gets updated so our agents know they can notify the client.
 
 
-![](images/supportyard.png)
+![All email organized in one place](images/supportyard.png)
 
 >**All email organized in one place**\
 We can see all the messages in SupportYard and assign them to someone on the team. We have saved filters that list all the tickets in one place, like all the Tech tickets marked as urgent that need a prompt reply.
 
 \
 
-![](images/supportyard-ticket.png)
+![It's just like regular email](images/supportyard-ticket.png)
 
-![](images/supportyard-reply-email.png)
+![It's just like regular email](images/supportyard-reply-email.png)
 
 >**It's just like regular email**\
 When we reply to a customer email, they receive a new email in their inbox. There's no interface to learn like in  corporate-grade ticketing systems - everything works as they're used to. 
@@ -777,7 +778,7 @@ Although the quality of the gif isn't that great, posts on social media have a s
 
 ![Easy recording and sharing](images/recordit.png)
 
-![](images/recordit-ready.png)
+![Easy recording and sharing](images/recordit-ready.png)
 
 >**Easy recording and sharing**\
 Choose which part of the screen you need to record, and stop when you're finished -and in a few second, you’ve got yourself a shareable gif.
@@ -960,7 +961,7 @@ We can later open the image in Skitch and annotate it like we're used to.
 
 ![Your whole website in one file](images/nimbus.png)
 
-![](images/nimbus-download.png)
+![Your whole website in one file](images/nimbus-download.png)
 
 >**Your whole website in one file**\
 Capturing the screenshot is fast and easy. Nimbus also provides a lot of other options (including image editing), but the entire page screenshot what we use the most.
@@ -1957,7 +1958,7 @@ Having a blog on our own website is important for SEO, domain authority, and get
 
 ![Code for the blog](images/jekyll-code.png)
 
-![](images/jekyll-term.png)
+![Code for the blog](images/jekyll-term.png)
 
 >**Generating the blog**\
 We define what goes where, run Jekyll from the command line, and have an updated, ready-to-deploy blog in seconds. While we’re still developing, it automatically rebuilds the blog whenever we make a change so we can see the results in the browser immediately. 
@@ -2005,7 +2006,7 @@ Gulp is run from a command line and a “watch” function keeps it active in th
 
 ![Write once, run all the time](images/gulp-code.png)
 
-![](images/gulp-terminal.png)
+![Write once, run all the time](images/gulp-terminal.png)
 
 >**Write once, run all the time**\
 We define which tasks to do on which pages and assets, run the "gulp" command in the terminal, and continue working without manually executing the same commands over and over.
@@ -2255,7 +2256,7 @@ This saves system administrators time so they can work more efficiently and focu
 
 ![Playbooks define server settings](images/ansible-playbook.png)
 
-![](images/ansible-terminal.png)
+![Playbooks define server settings](images/ansible-terminal.png)
 
 >**Playbooks define server settings**\
 Once you write a playbook for your servers, updating them is quick and easy. 
@@ -2517,7 +2518,7 @@ There's also a web app that's good for longer texts —just  copy/paste the 
 
 ![Quickly fix typos](images/grammarly-app.png)
 
-![](images/grammarly-exten.png)
+![Quickly fix typos](images/grammarly-exten.png)
 
 >**Quickly fix typos**\
 Grammarly lets you type without having to worry about spelling. You can fix everything after you're done thinking and writing.
@@ -2582,4 +2583,4 @@ Price:
 
 Visit [our blog for more tips and tricks](https://blog.activecollab.com).
 
-![](images/blog.png)
+![Our blog](images/blog.png)
